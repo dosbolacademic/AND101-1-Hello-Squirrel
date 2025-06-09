@@ -1,14 +1,17 @@
 <resources>
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
-    <string name="full_name">%s %s</string>
+    <string name="first_name">Dosbol</string>
+    <string name="last_name">Aliev</string>
+    <string name="full_name">Dosbol Aliev</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">I am a motivated learner with a passion for technology and computer science. I enjoy solving problems and finding creative solutions. Teaching math, computer science, and robotics has helped me build patience and leadership skills. I prepare students for math competitions and coach cybersecurity and robotics teams. I continuously improve my skills in software development and cybersecurity. I’m adaptable, open to new opportunities, and driven to grow. My positive attitude helps me overcome challenges. I value teamwork and collaboration. I am dedicated to making a meaningful impact through education and technology.</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_first_text">🥇 Swimming</string>
+    <string name="profile_hobby_second_text">🥈 Coding</string>
+
+    <string name="profile_hobby_third_text">🥉 Watching TV</string>
+    <string name="profile_hobby_fourth_text">🥉 Playing Starcraft II</string>
+    <string name="profile_hobby_fifth_text">🥉 Reading Books</string>
 </resources>

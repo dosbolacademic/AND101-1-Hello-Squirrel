@@ -9,4 +9,8 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="card_foreground">@color/white</color>
+
+    <!-- Add these -->
+    <color name="cyan">#00FFFF</color>
+    <color name="brown">#A52A2A</color>
 </resources>
